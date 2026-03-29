@@ -13,7 +13,7 @@ W dodatku na planszy znajdują się wyciągi. Wyciąg jest jednokierunkowy, podr
 
 Celem programu jest wyświetlenie najmniejszej liczby minut potrzebnych do przebycia trasy (bez szczegółów, jak do tego doszedł).
 Program działa w konsoli. Tworzony w Visual Studio Community 2022.
-
+'''
 Wejście do programu wygląda następująco:
 szerokość, wysokość planszy,
 pozycja startowa (x i y, numerowane od 0),
@@ -25,7 +25,8 @@ Dla każdego wyciągu:
 	czas trwania podróży (w minutach),
 	co ile minut odjeżdża - z wyciągu można korzystać w minutach będących wielokrotnością tej wartości.
 Na koniec wysokości kolejnych pól mapy (najpierw x, potem y).
-
+'''
+'''
 Przykładowe dane:
 Bez wyciągów:
 
@@ -61,3 +62,4 @@ Z wyciągami:
 2 2 2 3 4 5 4 3 2 1
 
 Wynik: 20
+'''
