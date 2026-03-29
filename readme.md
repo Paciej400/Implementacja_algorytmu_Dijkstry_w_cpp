@@ -1,4 +1,5 @@
 Backendowy projekt - hipotetyczna trasa w górach, implementacja algorytmu Dijkstry.
+Wykonane na potrzeby kursu algorytmy i struktury danych.
 
 Postać musi przejść z punktu startowego do docelowego, a pola mają pewną wysokość.
 Postać chodzi po sąsiednich polach, ale nie może chodzić po skosie.
