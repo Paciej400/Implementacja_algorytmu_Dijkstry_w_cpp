@@ -1,0 +1,36 @@
+# Build results
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IntelliSense
+ipch/
+*.ipch
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.tlog
+
+# Database files
+*.VC.db
+*.VC.opendb
+
+# Windows image file caches
+Thumbs.db
+
+# Mac
+.DS_Store
